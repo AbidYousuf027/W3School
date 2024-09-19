@@ -593,18 +593,18 @@
     outline: none;
   
     border-radius: 1.5rem;
-    width: 120px;
+    width: 150px;
     height: 40px;
   
     font-weight: 500;
     font-size: 1rem;
-  
+    transition: all 0.3s ease;
     color: #ffffff;
   }
   .html-btn:hover {
     background-color: #0a8b5c;
     transform: scale(1.05);
-    transition: all 0.2s ease;
+    
   }
   
   @media only screen and (max-width: 768) {
@@ -638,7 +638,7 @@
     }
   
     .html-btn {
-      width: 100px;
+      width: 150px;
     }
   }
   
@@ -757,18 +757,18 @@
     background-color: #04aa6d;
     border-style: none;
     border-radius: 1.5rem;
-    width: 120px;
+    width: 150px;
     height: 40px;
   
     font-weight: 500;
     font-size: 1rem;
-  
+    transition: all 0.3s ease;
     color: #ffffff;
   }
   .css-btn:hover {
     background-color: #0a8b5c;
     transform: scale(1.05);
-    transition: all 0.2s ease;
+    
   }
   @media (max-width: 768px) {
     .css-heading {
@@ -806,7 +806,7 @@
     }
   
     .css-btn {
-      width: 100px;
+      width: 150px;
     }
   }
   
@@ -929,18 +929,18 @@
     background-color: #04aa6d;
     border-style: none;
     border-radius: 1.5rem;
-    width: 120px;
+    width: 150px;
     height: 40px;
   
     font-weight: 500;
     font-size: 1rem;
-  
+    transition: all 0.3s ease;
     color: #ffffff;
   }
   .javascript-btn:hover {
     background-color: #0a8b5c;
     transform: scale(1.05);
-    transition: all 0.2s ease;
+
   }
   
   @media (max-width: 768px) {
@@ -980,7 +980,7 @@
     }
   
     .javascript-btn {
-      width: 100px;
+      width: 150;
     }
   }
   
@@ -1102,18 +1102,18 @@
     background-color: #04aa6d;
     border-style: none;
     border-radius: 1.5rem;
-    width: 120px;
+    width: 150px;
     height: 40px;
   
     font-weight: 500;
     font-size: 1rem;
-  
+    transition: all 0.3s ease;
     color: #ffffff;
   }
   .python-btn:hover {
     background-color: #0a8b5c;
     transform: scale(1.05);
-    transition: all 0.2s ease;
+    
   }
   
   @media (max-width: 768px) {
@@ -1153,7 +1153,7 @@
     }
   
     .python-btn {
-      width: 100px;
+      width: 150px;
     }
   }
   
@@ -1276,18 +1276,18 @@
     background-color: #04aa6d;
     border-style: none;
     border-radius: 1.5rem;
-    width: 120px;
+    width: 150px;
     height: 40px;
   
     font-weight: 500;
     font-size: 1rem;
-  
+    transition: all 0.3s ease;
     color: #ffffff;
   }
   .sql-btn:hover {
     background-color: #0a8b5c;
     transform: scale(1.05);
-    transition: all 0.2s ease;
+    
   }
   @media (max-width: 768px) {
     .sql-heading {
@@ -1318,7 +1318,7 @@
       width: 140px;
     }
     .sql-btn {
-      width: 100px;
+      width: 150px;
     }
   }
   
