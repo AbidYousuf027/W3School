@@ -175,6 +175,7 @@
   
   @media only screen and (max-width: 900px) {
     .nav-dropdown3,
+    .nav-dropdown4,
     .space-btn,
     .boot-btn {
       display: none;
